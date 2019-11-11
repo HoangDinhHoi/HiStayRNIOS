@@ -1,0 +1,166 @@
+2019-11-09 11:51:49 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fa725485a40; archive(resolved)='<IDEArchive: 0x7fa725528260>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fa725485a40; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fa7252b01a0; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa7252b0690; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa726d963d0; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa726d5cad0; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa726d5c820; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa7437ca890; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa7255135a0; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa726827c00; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa73b7a49f0; teamID='CA3RDT6X66', teamName='VIET MAI TRADING COMPANY LIMITED', teamType='Enterprise', username='ngocanh@vmt.vn', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa743761440; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='(null)'>
+	<IDEDistributionContext: 0x7fa725299dc0; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='(null)'>
+	<IDEDistributionContext: 0x7fa723fc1b30; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fa73f13c1d0>', team='(null)'>
+	<IDEDistributionContext: 0x7fa7268439c0; archive = '<IDEArchive: 0x7fa725528260>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fa725485a40>
+2019-11-09 11:51:49 +0000  Processing step: IDEDistributionCreateDestRootStep
+2019-11-09 11:51:49 +0000  Processing step: IDEDistributionCopyItemStep
+2019-11-09 11:51:49 +0000  Running /usr/bin/ditto '-V' '/Users/vmt/Library/Developer/Xcode/Archives/2019-11-09/HiStay 11-9-19, 6.46 PM.xcarchive/Products/Applications/HiStay.app' '/var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/Root/Payload/HiStay.app'
+2019-11-09 11:51:49 +0000  >>> Copying /Users/vmt/Library/Developer/Xcode/Archives/2019-11-09/HiStay 11-9-19, 6.46 PM.xcarchive/Products/Applications/HiStay.app 
+2019-11-09 11:51:49 +0000  copying file ./_CodeSignature/CodeResources ... 
+2019-11-09 11:51:49 +0000  7641 bytes for ./_CodeSignature/CodeResources
+2019-11-09 11:51:49 +0000  copying file ./AppIcon20x20@2x.png ... 
+2019-11-09 11:51:49 +0000  3350 bytes for ./AppIcon20x20@2x.png
+2019-11-09 11:51:49 +0000  copying file ./HiStay ... 
+2019-11-09 11:51:50 +0000  65829024 bytes for ./HiStay
+2019-11-09 11:51:50 +0000  copying file ./AppIcon20x20@3x.png ... 
+2019-11-09 11:51:50 +0000  4483 bytes for ./AppIcon20x20@3x.png
+2019-11-09 11:51:50 +0000  copying file ./AppIcon60x60@2x.png ... 
+2019-11-09 11:51:50 +0000  7163 bytes for ./AppIcon60x60@2x.png
+copying file ./AppIcon29x29@2x.png ... 
+2019-11-09 11:51:50 +0000  4332 bytes for ./AppIcon29x29@2x.png
+2019-11-09 11:51:50 +0000  copying file ./Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2019-11-09 11:51:50 +0000  1884 bytes for ./Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+2019-11-09 11:51:50 +0000  copying file ./Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2019-11-09 11:51:50 +0000  2479 bytes for ./Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2019-11-09 11:51:50 +0000  copying file ./Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2019-11-09 11:51:50 +0000  896 bytes for ./Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+copying file ./Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2019-11-09 11:51:50 +0000  896 bytes for ./Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+copying file ./Launch Screen.storyboardc/Info.plist ... 
+2019-11-09 11:51:50 +0000  258 bytes for ./Launch Screen.storyboardc/Info.plist
+copying file ./AppIcon40x40@3x.png ... 
+2019-11-09 11:51:50 +0000  7163 bytes for ./AppIcon40x40@3x.png
+copying file ./AppIcon40x40@2x.png ... 
+2019-11-09 11:51:50 +0000  5034 bytes for ./AppIcon40x40@2x.png
+copying file ./AppIcon29x29@3x.png ... 
+2019-11-09 11:51:50 +0000  5217 bytes for ./AppIcon29x29@3x.png
+copying file ./GoogleService-Info.plist ... 
+2019-11-09 11:51:50 +0000  722 bytes for ./GoogleService-Info.plist
+copying file ./AppIcon60x60@3x.png ... 
+2019-11-09 11:51:50 +0000  7643 bytes for ./AppIcon60x60@3x.png
+copying file ./Assets.car ... 
+2019-11-09 11:51:50 +0000  175104 bytes for ./Assets.car
+copying file ./main.jsbundle ... 
+2019-11-09 11:51:50 +0000  842831 bytes for ./main.jsbundle
+2019-11-09 11:51:50 +0000  copying file ./embedded.mobileprovision ... 
+2019-11-09 11:51:50 +0000  21458 bytes for ./embedded.mobileprovision
+2019-11-09 11:51:50 +0000  copying file ./assets/app.json ... 
+2019-11-09 11:51:50 +0000  49 bytes for ./assets/app.json
+2019-11-09 11:51:50 +0000  copying file ./Info.plist ... 
+2019-11-09 11:51:50 +0000  1494 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2019-11-09 11:51:50 +0000  8 bytes for ./PkgInfo
+2019-11-09 11:51:50 +0000  /usr/bin/ditto exited with 0
+2019-11-09 11:51:50 +0000  Processing step: IDEDistributionEmbedProfileStep
+2019-11-09 11:51:50 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2019-11-09 11:51:50 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2019-11-09 11:51:50 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2019-11-09 11:51:50 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2019-11-09 11:51:50 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2019-11-09 11:51:51 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2019-11-09 11:51:51 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-11-09 11:51:51 +0000  Processing step: IDEDistributionSymbolsStep
+2019-11-09 11:51:51 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-11-09 11:51:51 +0000  Processing step: IDEDistributionAppThinningStep
+2019-11-09 11:51:51 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2019-11-09 11:51:51 +0000  Processing step: IDEDistributionArchThinningStep
+2019-11-09 11:51:51 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/Root/Payload/HiStay.app/HiStay' '-verify_arch' 'arm64e'
+2019-11-09 11:51:51 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-11-09 11:51:51 +0000  Skipping architecture thinning for item "HiStay" because arch "arm64e" wasn't found
+2019-11-09 11:51:51 +0000  Processing step: IDEDistributionODRStep
+2019-11-09 11:51:51 +0000  Processing step: IDEDistributionStripXattrsStep
+2019-11-09 11:51:51 +0000  Running /usr/bin/xattr '-crs' '/var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/Root/Payload/HiStay.app'
+2019-11-09 11:51:53 +0000  /usr/bin/xattr exited with 0
+2019-11-09 11:51:53 +0000  Processing step: IDEDistributionCodesignStep
+2019-11-09 11:51:53 +0000  Entitlements for <IDEDistributionItem: 0x7fa726a80fe0; bundleID='com.histay', path='<DVTFilePath:0x7fa73ca944b0:'/Users/vmt/Library/Developer/Xcode/Archives/2019-11-09/HiStay 11-9-19, 6.46 PM.xcarchive/Products/Applications/HiStay.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa726b21640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa72500d3c0; name='Apple Development: Anh Van Khuong (422NQ6U9DR)', hash='EB5C63529406E14D3EC54B22E0A275DCB79DB3B5', serialNumber='58E201A696DF64E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-11-07 09:44:38 +0000''>', entitlements='{
+    "application-identifier" = "CA3RDT6X66.com.histay";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = CA3RDT6X66;
+    "get-task-allow" = 1;
+}', teamID='CA3RDT6X66', identifier='com.histay', executablePath='<DVTFilePath:0x7fa726a812e0:'/Users/vmt/Library/Developer/Xcode/Archives/2019-11-09/HiStay 11-9-19, 6.46 PM.xcarchive/Products/Applications/HiStay.app/HiStay'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "CA3RDT6X66.com.histay";
+    "aps-environment" = production;
+    "com.apple.developer.team-identifier" = CA3RDT6X66;
+    "get-task-allow" = 0;
+}
+2019-11-09 11:51:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa726a80fe0; bundleID='com.histay', path='<DVTFilePath:0x7fa73ca944b0:'/Users/vmt/Library/Developer/Xcode/Archives/2019-11-09/HiStay 11-9-19, 6.46 PM.xcarchive/Products/Applications/HiStay.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa726b21640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa726d77900; name='Apple Development: Anh Van Khuong (422NQ6U9DR)', hash='EB5C63529406E14D3EC54B22E0A275DCB79DB3B5', serialNumber='58E201A696DF64E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-11-07 09:44:38 +0000''>', entitlements='{
+    "application-identifier" = "CA3RDT6X66.com.histay";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = CA3RDT6X66;
+    "get-task-allow" = 1;
+}', teamID='CA3RDT6X66', identifier='com.histay', executablePath='<DVTFilePath:0x7fa726a812e0:'/Users/vmt/Library/Developer/Xcode/Archives/2019-11-09/HiStay 11-9-19, 6.46 PM.xcarchive/Products/Applications/HiStay.app/HiStay'>', hardenedRuntime='0'>'> to: /var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/entitlements~~~gaKZZc
+2019-11-09 11:51:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '26C99D7D18362D850DC4BF3D92E31E4FB2F73AF2' '--entitlements' '/var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/entitlements~~~gaKZZc' '--preserve-metadata=identifier,flags,runtime' '/var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/Root/Payload/HiStay.app'
+2019-11-09 11:51:54 +0000  /var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/Root/Payload/HiStay.app: signed app bundle with Mach-O universal (armv7 arm64) [com.histay]
+2019-11-09 11:51:54 +0000  /usr/bin/codesign exited with 0
+2019-11-09 11:51:54 +0000  Processing step: IDEDistributionZipODRItemStep
+2019-11-09 11:51:54 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-11-09 11:51:54 +0000  Processing step: IDEDistributionCreateIPAStep
+2019-11-09 11:51:54 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/Root' '/var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/Packages/HiStay.ipa'
+2019-11-09 11:51:54 +0000  >>> Copying /var/folders/l5/ltm67jyx0fvgckppf8qv8g480000gn/T/XcodeDistPipeline.~~~WXrFWj/Root 
+2019-11-09 11:51:54 +0000  copying file ./Payload/HiStay.app/_CodeSignature/CodeResources ... 
+2019-11-09 11:51:54 +0000  7641 bytes for ./Payload/HiStay.app/_CodeSignature/CodeResources
+2019-11-09 11:51:54 +0000  copying file ./Payload/HiStay.app/AppIcon20x20@2x.png ... 
+2019-11-09 11:51:54 +0000  3350 bytes for ./Payload/HiStay.app/AppIcon20x20@2x.png
+copying file ./Payload/HiStay.app/HiStay ... 
+2019-11-09 11:51:54 +0000  8501808 bytes for ./Payload/HiStay.app/HiStay
+2019-11-09 11:51:54 +0000  copying file ./Payload/HiStay.app/AppIcon20x20@3x.png ... 
+4483 bytes for ./Payload/HiStay.app/AppIcon20x20@3x.png
+copying file ./Payload/HiStay.app/AppIcon60x60@2x.png ... 
+2019-11-09 11:51:54 +0000  7163 bytes for ./Payload/HiStay.app/AppIcon60x60@2x.png
+copying file ./Payload/HiStay.app/AppIcon29x29@2x.png ... 
+2019-11-09 11:51:54 +0000  4332 bytes for ./Payload/HiStay.app/AppIcon29x29@2x.png
+2019-11-09 11:51:54 +0000  copying file ./Payload/HiStay.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2019-11-09 11:51:54 +0000  1884 bytes for ./Payload/HiStay.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+copying file ./Payload/HiStay.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2019-11-09 11:51:54 +0000  2479 bytes for ./Payload/HiStay.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+copying file ./Payload/HiStay.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2019-11-09 11:51:54 +0000  896 bytes for ./Payload/HiStay.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+copying file ./Payload/HiStay.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2019-11-09 11:51:54 +0000  896 bytes for ./Payload/HiStay.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+copying file ./Payload/HiStay.app/Launch Screen.storyboardc/Info.plist ... 
+2019-11-09 11:51:54 +0000  258 bytes for ./Payload/HiStay.app/Launch Screen.storyboardc/Info.plist
+copying file ./Payload/HiStay.app/AppIcon40x40@3x.png ... 
+2019-11-09 11:51:54 +0000  7163 bytes for ./Payload/HiStay.app/AppIcon40x40@3x.png
+2019-11-09 11:51:54 +0000  copying file ./Payload/HiStay.app/AppIcon40x40@2x.png ... 
+2019-11-09 11:51:54 +0000  5034 bytes for ./Payload/HiStay.app/AppIcon40x40@2x.png
+copying file ./Payload/HiStay.app/AppIcon29x29@3x.png ... 
+2019-11-09 11:51:54 +0000  5217 bytes for ./Payload/HiStay.app/AppIcon29x29@3x.png
+copying file ./Payload/HiStay.app/GoogleService-Info.plist ... 
+2019-11-09 11:51:54 +0000  722 bytes for ./Payload/HiStay.app/GoogleService-Info.plist
+copying file ./Payload/HiStay.app/AppIcon60x60@3x.png ... 
+2019-11-09 11:51:54 +0000  7643 bytes for ./Payload/HiStay.app/AppIcon60x60@3x.png
+copying file ./Payload/HiStay.app/Assets.car ... 
+2019-11-09 11:51:54 +0000  175104 bytes for ./Payload/HiStay.app/Assets.car
+2019-11-09 11:51:54 +0000  copying file ./Payload/HiStay.app/main.jsbundle ... 
+2019-11-09 11:51:54 +0000  842831 bytes for ./Payload/HiStay.app/main.jsbundle
+copying file ./Payload/HiStay.app/embedded.mobileprovision ... 
+2019-11-09 11:51:54 +0000  9350 bytes for ./Payload/HiStay.app/embedded.mobileprovision
+2019-11-09 11:51:54 +0000  copying file ./Payload/HiStay.app/assets/app.json ... 
+49 bytes for ./Payload/HiStay.app/assets/app.json
+2019-11-09 11:51:54 +0000  copying file ./Payload/HiStay.app/Info.plist ... 
+1494 bytes for ./Payload/HiStay.app/Info.plist
+2019-11-09 11:51:54 +0000  copying file ./Payload/HiStay.app/PkgInfo ... 
+8 bytes for ./Payload/HiStay.app/PkgInfo
+2019-11-09 11:51:54 +0000  /usr/bin/ditto exited with 0
+2019-11-09 11:51:54 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2019-11-09 11:51:54 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2019-11-09 11:51:54 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2019-11-09 11:51:54 +0000  Processing step: IDEDistributionCreateManifestStep

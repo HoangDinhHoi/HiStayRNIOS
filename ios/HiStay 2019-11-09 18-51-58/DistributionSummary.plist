@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HiStay.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>26C99D7D18362D850DC4BF3D92E31E4FB2F73AF2</string>
+				<key>dateExpires</key>
+				<string>10/6/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>CA3RDT6X66.com.histay</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>CA3RDT6X66</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>HiStay.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c932b5e2-0e75-4035-8358-3e239ee8c724</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.histay</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>CA3RDT6X66</string>
+				<key>name</key>
+				<string>VIET MAI TRADING COMPANY LIMITED</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
